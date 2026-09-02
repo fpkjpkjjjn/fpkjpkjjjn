@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:fpkjpkjjn@gmail.com">Email</a> •
-  <a href="https://t.me/yivankysel">✈️ Telegram</a> •
+  <a href="https://t.me/ivankysel">Telegram</a>
 </p>
 
 ---
