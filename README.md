@@ -12,7 +12,7 @@
 
 ---
 
-### ~ Tech Stack
+### ~ Tech stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -35,7 +35,7 @@
 
 ---
 
-### ~ Featured Project
+### ~ My projects
 
 <a href="https://github.com/fpkjpkjjjn/Minesweeper">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=fpkjpjjjn&repo=Project-Minesweeper&theme=dark&hide_border=true" alt="Minesweeper" />
@@ -43,7 +43,7 @@
 
 ---
 
-### ~ GitHub Stats
+### ~ GitHub stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=fpkjpjjjn&show_icons=true&theme=dark&hide_border=true" />
