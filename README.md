@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=cout+%3C%3C+%22Hi%2C+I'm+Ivan+Kysel!%22%3B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=cout+%3C%3C+%22Hi%2C+I'm+Ivan+Kysel!%22%3B"; alt="Typing SVG" />
 </h1>
 <h3 align="center">C ~ C# ~ C++ Software Developer</h3>
 <p align="center">
