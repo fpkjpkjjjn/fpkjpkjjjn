@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=cout+%3C%3C+%22Hi%2C+I'm+Ivan+Kysel!%22%3B" alt="Typing SVG" />
 </h1>
-<h3 align="center">C ~ C# ~ C++ Software Developer</h3>
+<h3 align="center">C ~ C# ~ C++ Software Developer;</h3>
 <p align="center">
   Writing code in C/C#/C++;
 </p>
@@ -37,9 +37,7 @@
 
 ### ~ My projects
 
-- <a href="https://github.com/fpkjpkjjjn/Minesweeper">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fpkjpjjjn&repo=Project-Minesweeper&theme=dark&hide_border=true" alt="Minesweeper" /> --- Classic minesweeper game implemented in C.
-</a>
+- <a href="https://github.com/fpkjpjjjn/Minesweeper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fpkjpjjjn&repo=Project-Minesweeper&theme=dark&hide_border=true" alt="Minesweeper" /></a> — Classic minesweeper game implemented in C.
 
 ---
 
