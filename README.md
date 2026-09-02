@@ -37,7 +37,7 @@
 
 ### Featured Project
 
-<a href="https://github.com/fpkjpjjjn/Project-Minesweeper">
+<a href="https://github.com/fpkjpkjjjn/Project-Minesweeper">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=fpkjpjjjn&repo=Project-Minesweeper&theme=dark&hide_border=true" alt="Minesweeper" />
 </a>
 
