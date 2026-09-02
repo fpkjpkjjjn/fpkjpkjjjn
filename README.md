@@ -35,15 +35,15 @@
 
 ---
 
-### Featured Project
+### ~ Featured Project
 
-<a href="https://github.com/fpkjpkjjjn/Project-Minesweeper">
+<a href="https://github.com/fpkjpkjjjn/Minesweeper">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=fpkjpjjjn&repo=Project-Minesweeper&theme=dark&hide_border=true" alt="Minesweeper" />
 </a>   --- Classic minesweeper game implemented in C.
 
 ---
 
-### GitHub Stats
+### ~ GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=fpkjpjjjn&show_icons=true&theme=dark&hide_border=true" />
