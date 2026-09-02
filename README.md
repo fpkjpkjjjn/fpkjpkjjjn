@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=cout+%3C%3C+%22Hi%2C+I'm+Ivan+Kysel!%22%3B" alt="Typing SVG" />
 </h1>
-<h3 align="center">C ~ C# ~ C++ Software Developer;</h3>
+<h3 align="center">C ~ C# ~ C++ Software Developer</h3>
 <p align="center">
   I'm 18, student at TUKE in Slovakia. Developing and practicing every day. 
 </p>
@@ -25,7 +25,7 @@
 
 ---
 
-### ~ What i do:
+### ~ My capabilities
 
 - C / C++ development (systems programming, memory management, performance optimization);
 - C# development (desktop and console applications, .NET);
@@ -37,7 +37,7 @@
 
 ### ~ My projects
 
-- <a href="https://github.com/fpkjpjjjn/Minesweeper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fpkjpjjjn&repo=Project-Minesweeper&theme=dark&hide_border=true" alt="Minesweeper" /></a> — Classic minesweeper game implemented in C.
+- <a href="https://github.com/fpkjpjjjn/Minesweeper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fpkjpjjjn&repo=Project-Minesweeper&theme=dark&hide_border=true" alt="Minesweeper" /></a> --- Classic minesweeper game implemented in C.
 
 ---
 
