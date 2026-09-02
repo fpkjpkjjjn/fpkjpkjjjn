@@ -1,18 +1,22 @@
-<h1 align="center">cout << "Hello, I'm Ivan Kysel!"</h1>
-<h3 align="center">C · C# · C++ developing </h3>
+<h1 align="center">Hi, I'm Ivan 👋</h1>
+<h3 align="center">Software Developer | Systems & Backend | C · C# · C++</h3>
 
 <p align="center">
-  penis penis penis pisun
+  I write performant and reliable code: from low-level systems programming in C
+  to cross-platform applications in C# and high-performance solutions in C++.
+  Open to freelance projects and remote collaboration.
 </p>
 
 <p align="center">
-  <a href="mailto:fpkjpkjjjn@gmail.com">Email</a> •
-  <a href="https://t.me/ivankysel">Telegram</a> •
+  <a href="mailto:your-email@example.com">📧 Email</a> •
+  <a href="https://t.me/your_telegram">✈️ Telegram</a> •
+  <a href="https://www.linkedin.com/in/your-linkedin/">💼 LinkedIn</a> •
+  <a href="https://your-portfolio-site.com">🌐 Portfolio</a>
 </p>
 
 ---
 
-### 🛠️ Стек технологий
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -25,48 +29,31 @@
 
 ---
 
-### 💼 Что я умею
+### 💼 What I Do
 
-- ⚙️ Разработка на **C / C++**: системное программирование, работа с памятью, оптимизация производительности
-- 🖥️ Разработка на **C#**: десктопные и консольные приложения, работа с .NET
-- 🧩 Проектирование алгоритмов и структур данных
-- 🔧 Отладка, рефакторинг и оптимизация существующего кода
-- 📦 Сборка проектов (CMake / Make / MSBuild)
-
----
-
-### 📌 Избранные проекты
-
-<table>
-  <tr>
-    <td width="50%">
-      <b><a href="https://github.com/fpkjpjjjn/Project-Minesweeper">🎮 Project-Minesweeper</a></b><br/>
-      Классическая игра «Сапёр», реализованная на C.<br/>
-      <sub>Стек: C</sub>
-    </td>
-    <td width="50%">
-      <b><a href="#">🔗 Название проекта 2</a></b><br/>
-      Краткое описание проекта на C++ или C#.<br/>
-      <sub>Стек: C++ / C#</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <b><a href="#">🔗 Название проекта 3</a></b><br/>
-      Краткое описание проекта.<br/>
-      <sub>Стек: ...</sub>
-    </td>
-    <td width="50%">
-      <b><a href="#">🔗 Название проекта 4</a></b><br/>
-      Краткое описание проекта.<br/>
-      <sub>Стек: ...</sub>
-    </td>
-  </tr>
-</table>
+- ⚙️ **C / C++** development: systems programming, memory management, performance optimization
+- 🖥️ **C#** development: desktop and console applications, .NET
+- 🧩 Algorithm and data structure design
+- 🔧 Debugging, refactoring, and optimizing existing code
+- 📦 Build systems (CMake / Make / MSBuild)
 
 ---
 
-### 📊 GitHub статистика
+### 📌 Featured Project
+
+<p align="center">
+  <a href="https://github.com/fpkjpjjjn/Project-Minesweeper">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fpkjpjjjn&repo=Project-Minesweeper&theme=dark&hide_border=true" alt="Project-Minesweeper" />
+  </a>
+</p>
+
+<p align="center">
+  🎮 Classic Minesweeper game implemented in C — check it out at the link above.
+</p>
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=fpkjpjjjn&show_icons=true&theme=dark&hide_border=true" />
@@ -76,5 +63,5 @@
 ---
 
 <p align="center">
-  💬 Открыт к фриланс-проектам и предложениям о сотрудничестве — пишите!
+  💬 Open to freelance projects and collaboration opportunities — feel free to reach out!
 </p>
