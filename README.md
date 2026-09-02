@@ -1,14 +1,16 @@
-<h1 align="center">cout << "Hi, I'm Ivan Kysel!";</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=cout+%3C%3C+%22Hi%2C+I'm+Ivan+Kysel!%22%3B" alt="Typing SVG" />
+</h1>
 <h3 align="center">C ~ C# ~ C++ Software Developer</h3>
-
 <p align="center">
   Writing code in C/C#/C++;
 </p>
-
 <p align="center">
   <a href="mailto:fpkjpkjjn@gmail.com">Email</a> •
   <a href="https://t.me/ivankysel">Telegram</a>
 </p>
+
+---
 
 ### ~ Tech Stack
 
@@ -20,6 +22,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
+
+---
 
 ### ~ What i do:
 
@@ -33,15 +37,11 @@
 
 ### Featured Project
 
-<p align="center">
-  <a href="https://github.com/fpkjpkjjjn/Project-Minesweeper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fpkjpjjjn&repo=Project-Minesweeper&theme=dark&hide_border=true" alt="Minesweeper" />
-  </a>
-</p>
+<a href="https://github.com/fpkjpjjjn/Project-Minesweeper">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fpkjpjjjn&repo=Project-Minesweeper&theme=dark&hide_border=true" alt="Minesweeper" />
+</a>
 
-<p align="center">
-  Classic minesweeper game implemented in C.
-</p>
+Classic minesweeper game implemented in C.
 
 ---
 
