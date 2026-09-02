@@ -1,4 +1,4 @@
-<h1 align="center">cout << "Hello, I'm Ivan Kysel!" 👋</h1>
+<h1 align="center">cout << "Hello, I'm Ivan Kysel!"</h1>
 <h3 align="center">C · C# · C++ developing </h3>
 
 <p align="center">
@@ -6,10 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your-email@example.com">📧 Email</a> •
-  <a href="https://t.me/your_telegram">✈️ Telegram</a> •
-  <a href="https://www.linkedin.com/in/your-linkedin/">💼 LinkedIn</a> •
-  <a href="https://your-portfolio-site.com">🌐 Портфолио</a>
+  <a href="mailto:fpkjpkjjjn@gmail.com">Email</a> •
+  <a href="https://t.me/ivankysel">Telegram</a> •
 </p>
 
 ---
