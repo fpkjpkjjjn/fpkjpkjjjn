@@ -1,10 +1,8 @@
-<h1 align="center">Привет, я Иван 👋</h1>
-<h3 align="center">Software Developer | Systems & Backend | C · C# · C++</h3>
+<h1 align="center">cout << "Hello, I'm Ivan Kysel!" 👋</h1>
+<h3 align="center">C · C# · C++ developing </h3>
 
 <p align="center">
-  Пишу производительный и надёжный код: от низкоуровневых системных задач на C
-  до кроссплатформенных приложений на C# и высоконагруженных решений на C++.
-  Открыт для фриланс-проектов и удалённого сотрудничества.
+  penis penis penis pisun
 </p>
 
 <p align="center">
