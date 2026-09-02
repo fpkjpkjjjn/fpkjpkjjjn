@@ -51,5 +51,5 @@
 ---
 
 <p align="center">
-  Open to freelance projects and collaboration opportunities — feel free to reach out!
+  Open to freelance projects and collaboration opportunities!
 </p>
