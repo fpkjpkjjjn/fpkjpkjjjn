@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">C ~ C# ~ C++ Software Developer;</h3>
 <p align="center">
-  Writing code in C/C#/C++;
+  I'm 18, student at TUKE in Slovakia. Developing and practicing every day. 
 </p>
 <p align="center">
   <a href="mailto:fpkjpkjjn@gmail.com">Email</a> •
