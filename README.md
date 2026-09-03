@@ -48,7 +48,7 @@ Open to short/long-term projects. Replying usually within 24h
 ---
 
 ### ~ My projects
-- <a href="https://github.com/fpkjpjjjn/Minesweeper">**Minesweeper**</a> --- Classic Minesweeper game implemented in C, with custom board logic and terminal rendering.
+- <a href="https://github.com/fpkjpkjjjn/Minesweeper">**Minesweeper**</a> --- Classic Minesweeper game implemented in C, with custom board logic and terminal rendering.
 - **[Project Name]** — one-line description of what it does and what tech it uses.
 - **[Project Name]** — one-line description of what it does and what tech it uses.
 
