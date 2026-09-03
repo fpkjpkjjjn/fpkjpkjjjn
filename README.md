@@ -5,13 +5,12 @@
 <h3 align="center">C ~ C# ~ C++ Software Developer</h3>
 
 <p align="center">
-  Building reliable, performant software — from low-level systems code to desktop applications.
+  Building reliable, performant software - from low-level systems code to desktop applications.
 </p>
 
 <p align="center">
   <a href="mailto:fpkjpkjjn@gmail.com">Email</a> •
-  <a href="https://t.me/ivankysel">Telegram</a> •
-  <a href="#">Portfolio</a>
+  <a href="https://t.me/ivankysel">Telegram</a>
 </p>
 
 ---
@@ -29,27 +28,27 @@
 ---
 
 ### ~ What I do
-- C / C++ development — systems programming, memory management, performance optimization;
-- C# / .NET development — desktop and console applications;
-- Algorithm and data structure design;
-- Debugging, refactoring, and optimizing existing codebases;
-- Build systems: CMake, Make, MSBuild;
+- C / C++ development — systems programming, memory management, performance optimization
+- C# / .NET development — desktop and console applications
+- Algorithm and data structure design
+- Debugging, refactoring, and optimizing existing codebases
+- Build systems: CMake, Make, MSBuild
 
 ---
 
-### ~ Services for freelance clients
-- Custom CLI / console tools in C, C++ or C#;
-- Performance audits and optimization of existing C/C++ code;
-- Windows desktop applications (C# / .NET);
-- Code review, refactoring, and legacy code cleanup;
-- Algorithm implementation and data structure design;
+### ~ My services for freelance clients
+- Custom CLI / console tools in C, C++ or C#
+- Performance audits and optimization of existing C/C++ code
+- Windows desktop applications (C# / .NET)
+- Code review, refactoring, and legacy code cleanup
+- Algorithm implementation and data structure design
 
-*Open to short-term and long-term projects. Reply time: usually within 24h.*
+Open to short/long-term projects. Replying usually within 24h
 
 ---
 
 ### ~ My projects
-- <a href="https://github.com/fpkjpjjjn/Minesweeper">**Minesweeper**</a> — Classic Minesweeper game implemented in C, with custom board logic and terminal rendering.
+- <a href="https://github.com/fpkjpjjjn/Minesweeper">**Minesweeper**</a> --- Classic Minesweeper game implemented in C, with custom board logic and terminal rendering.
 - **[Project Name]** — one-line description of what it does and what tech it uses.
 - **[Project Name]** — one-line description of what it does and what tech it uses.
 
