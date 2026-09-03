@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:fpkjpkjjn@gmail.com">Email</a> •
+  <a href="mailto:fpkjpkjjjn@gmail.com">Email</a> •
   <a href="https://t.me/ivankysel">Telegram</a>
 </p>
 
