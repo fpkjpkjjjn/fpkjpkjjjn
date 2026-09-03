@@ -1,19 +1,22 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=cout+%3C%3C+%22Hi%2C+I'm+Ivan+Kysel!%22%3B" alt="Typing SVG" />
 </h1>
+
 <h3 align="center">C ~ C# ~ C++ Software Developer</h3>
+
 <p align="center">
-  Developing and practicing every day. 
+  Building reliable, performant software — from low-level systems code to desktop applications.
 </p>
+
 <p align="center">
   <a href="mailto:fpkjpkjjn@gmail.com">Email</a> •
-  <a href="https://t.me/ivankysel">Telegram</a>
+  <a href="https://t.me/ivankysel">Telegram</a> •
+  <a href="#">Portfolio</a>
 </p>
 
 ---
 
 ### ~ Tech stack
-
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -25,28 +28,32 @@
 
 ---
 
-### ~ My capabilities
-
-- C / C++ development (systems programming, memory management, performance optimization);
-- C# development (desktop and console applications, .NET);
+### ~ What I do
+- C / C++ development — systems programming, memory management, performance optimization;
+- C# / .NET development — desktop and console applications;
 - Algorithm and data structure design;
-- Debugging, refactoring, and optimizing existing code;
-- Build systems (CMake / Make / MSBuild);
+- Debugging, refactoring, and optimizing existing codebases;
+- Build systems: CMake, Make, MSBuild;
+
+---
+
+### ~ Services for freelance clients
+- Custom CLI / console tools in C, C++ or C#;
+- Performance audits and optimization of existing C/C++ code;
+- Windows desktop applications (C# / .NET);
+- Code review, refactoring, and legacy code cleanup;
+- Algorithm implementation and data structure design;
+
+*Open to short-term and long-term projects. Reply time: usually within 24h.*
 
 ---
 
 ### ~ My projects
+- <a href="https://github.com/fpkjpjjjn/Minesweeper">**Minesweeper**</a> — Classic Minesweeper game implemented in C, with custom board logic and terminal rendering.
+- **[Project Name]** — one-line description of what it does and what tech it uses.
+- **[Project Name]** — one-line description of what it does and what tech it uses.
 
-- <a href="https://github.com/fpkjpjjjn/Minesweeper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fpkjpjjjn&repo=Project-Minesweeper&theme=dark&hide_border=true" alt="Minesweeper" /></a> --- Classic minesweeper game implemented in C.
-
----
-
-### ~ GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fpkjpjjjn&show_icons=true&theme=dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fpkjpjjjn&layout=compact&theme=dark&hide_border=true" />
-</p>
+*More projects on my [pinned repositories](https://github.com/fpkjpjjjn?tab=repositories).*
 
 ---
 
