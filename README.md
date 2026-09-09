@@ -49,7 +49,7 @@ Open to short/long-term projects. Replying usually within 24h
 
 ### ~ My projects
 - <a href="https://github.com/fpkjpkjjjn/Minesweeper">**Minesweeper**</a> --- Classic Minesweeper game implemented in C, with custom board logic and terminal rendering.
-- **[Project Name]** — one-line description of what it does and what tech it uses.
+- <a href="https://github.com/fpkjpkjjjn/MeetingRoomBooking">**MeetingRoomBooking**</a> --- A simple REST API for booking meeting rooms, built with ASP.NET Core 8 at C#.
 - **[Project Name]** — one-line description of what it does and what tech it uses.
 
 *More projects on my [pinned repositories](https://github.com/fpkjpjjjn?tab=repositories).*
