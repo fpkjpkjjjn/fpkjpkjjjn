@@ -27,26 +27,6 @@
 
 ---
 
-### ~ What I do
-- C / C++ development — systems programming, memory management, performance optimization
-- C# / .NET development — desktop and console applications
-- Algorithm and data structure design
-- Debugging, refactoring, and optimizing existing codebases
-- Build systems: CMake, Make, MSBuild
-
----
-
-### ~ My services for freelance clients
-- Custom CLI / console tools in C, C++ or C#
-- Performance audits and optimization of existing C/C++ code
-- Windows desktop applications (C# / .NET)
-- Code review, refactoring, and legacy code cleanup
-- Algorithm implementation and data structure design
-
-Open to short/long-term projects. Replying usually within 24h
-
----
-
 ### ~ My projects
 - <a href="https://github.com/fpkjpkjjjn/Minesweeper">**Minesweeper**</a> --- Classic Minesweeper game implemented in C, with custom board logic and terminal rendering.
 - <a href="https://github.com/fpkjpkjjjn/MeetingRoomBooking">**MeetingRoomBooking**</a> --- A simple REST API for booking meeting rooms, built with ASP.NET Core 8 at C#.
