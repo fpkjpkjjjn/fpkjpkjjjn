@@ -2,10 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=cout+%3C%3C+%22Hi%2C+I'm+Ivan+Kysel!%22%3B" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">C ~ C# ~ C++ Software Developer</h3>
+<h3 align="center">C ~ C# ~ C++</h3>
 
 <p align="center">
-  Building reliable, performant software - from low-level systems code to desktop applications.
+  Building software.
 </p>
 
 <p align="center">
@@ -30,9 +30,3 @@
 ### ~ My projects
 - <a href="https://github.com/fpkjpkjjjn/Minesweeper">**Minesweeper**</a> --- Classic Minesweeper game implemented in C, with custom board logic and terminal rendering.
 - <a href="https://github.com/fpkjpkjjjn/MeetingRoomBooking">**MeetingRoomBooking**</a> --- A simple REST API for booking meeting rooms, built with ASP.NET Core 8 at C#.
-
----
-
-<p align="center">
-  Open to freelance projects and collaboration opportunities!
-</p>
